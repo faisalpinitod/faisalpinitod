@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Node.js,MongoDb and Express.js**
 
-- 📫 How to reach me **faisalpinitod@gmail.com**
+- 📫 How to reach me **[faisalpinitod@gmail.com](https://faisalpinitod@gmail.com)**
 
 - 👨‍💻 All of my projects are available at  **[My Portfolio](https://faisalpinitod.github.io/)**
 
