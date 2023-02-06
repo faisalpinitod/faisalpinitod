@@ -18,7 +18,7 @@
 
 <a href = "https://www.linkedin.com/in/faisal-pinitod-41b0671ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/iam_faisal17"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iam_faisal17/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.instagram.com/iam_faisal17/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
