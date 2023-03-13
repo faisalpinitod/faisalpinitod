@@ -40,6 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalpinitod&show_icons=true&locale=en" alt="faisalpinitod" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=faisalpinitod" &"alt="faisalpinitod" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalpinitod" &"alt="faisalpinitod" /></p>
 
 
