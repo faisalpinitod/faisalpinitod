@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Pinitod</h1>
-<h3 align="center">An aspiring full-stack web developer who enjoys creating and developing user-friendly websites and applications.</h3>
+<h3 align="center">An aspiring full-stack web developer who enjoys creating and developing user-friendly websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalpinitod&label=Profile%20views&color=0e75b6&style=flat" alt="faisalpinitod" /> </p>
 
